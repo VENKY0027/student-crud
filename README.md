@@ -1,11 +1,12 @@
 
-```markdown
+
 # 🎓 Student Management System (Spring Boot + H2 + Thymeleaf)
 
 A simple and clean Student Management System built using **Spring Boot**, **Thymeleaf**, and **H2 in-memory database**.  
 This project demonstrates CRUD operations (Create, Read, Update, Delete) with a modern UI using **Bootstrap**.
 
 ---
+
 ## 🚀 Features
 
 - Add New Students  
@@ -35,7 +36,7 @@ This project demonstrates CRUD operations (Create, Read, Update, Delete) with a 
 - Maven
 - VS Code / IntelliJ / Eclipse
 
----
+
 
 ## 📂 Project Structure
 
